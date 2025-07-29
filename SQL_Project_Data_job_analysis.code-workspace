@@ -1,0 +1,44 @@
+{
+	"folders": [
+		{
+			"path": "C:/Users/VEDANT/OneDrive/Desktop/SQL_Project_Data_job_analysis"
+		},
+		{
+			"path": "C:/csv_imports/csv_files"
+		},
+		{
+			"path": "C:/csv_imports/sql_load"
+		}
+	],
+	"settings": {
+		"sqltools.connections": [
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "postgre",
+				"database": "postgres",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_project",
+				"database": "sql_project",
+				"username": "postgres"
+			},
+			{
+				"previewLimit": 50,
+				"server": "localhost",
+				"port": 5432,
+				"driver": "PostgreSQL",
+				"name": "sql_course",
+				"database": "sql_course",
+				"username": "postgres"
+			}
+		]
+	}
+}
